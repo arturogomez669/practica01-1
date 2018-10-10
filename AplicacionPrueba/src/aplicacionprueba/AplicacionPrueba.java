@@ -18,6 +18,10 @@ public class AplicacionPrueba {
         // TODO code application logic here
         
         // modificando el codigo fuente de mi aplicacion
+        
+        
+        // modificado por yo (Arturo Gomez)
+                
         System.out.println("Hola Mundo");
     }
     
